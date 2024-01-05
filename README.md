@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/iP5waqf.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/AvantiiM/web102_prework/blob/main/prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap
